@@ -145,4 +145,4 @@ urllib3==1.24.1
 wcwidth==0.1.7
 wrapt==1.10.11
 django-storages==1.7.1
-opencv-contrib-python-headless==4.0.0.21
+opencv-contrib-python-headless==4.1.1.26
